@@ -1,2 +1,2 @@
 ## Molecule Solubility Checker
-Check the solubilty oif a molecule in water or solvent.
+Check the solubilty of a molecule in water or solvent.
